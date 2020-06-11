@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+
 using namespace std;
 
 #define FAST                          \
@@ -13,6 +14,5 @@ int main()
     while (t--)
     {
     }
-
     return 0;
 }
