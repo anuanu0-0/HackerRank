@@ -1,3 +1,7 @@
+//Problem Link: https://www.hackerrank.com/challenges/lonely-integer/problem
+
+//Time Complexity: 0(n)
+//Auxilary Space: 0(1)
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -28,3 +32,9 @@ int main()
     cout << res << '\n';
     return 0;
 }
+
+/*
+Xor propertirs used:
+    x^x = 0
+    x^0 = x
+*/
